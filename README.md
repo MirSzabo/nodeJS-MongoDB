@@ -11,7 +11,7 @@ Technologies used
 - BCrypt Hashing
 
 Install the dependencies
-$ npm install
+- $ npm install
 
 Run app
-$ npm start
+- $ npm start
